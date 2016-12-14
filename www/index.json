@@ -1,11 +1,11 @@
 {
   "name": "Lost mines of Phandelver",
   "current": {
-    "location": "Mad King's Catacombs",
-    "partyXp": 680
+    "location": "Thundertree Ruins",
+    "partyXp": 760
   },
   "playCounts": {
-    "session": 3,
+    "session": 4,
     "oneShot": 0
   },
   "dmKillCounts": {
